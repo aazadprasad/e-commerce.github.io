@@ -142,7 +142,7 @@
 	
 	.loginbox{
 	
-	top: 70%;
+	top: 80%;
 	
 	}
 	#footer{
@@ -179,6 +179,15 @@
 	}
 
 }
+
+/*@media only screen and (max-width: 415px){
+	
+	#footer{
+	
+	margin-top: 140%;
+	}
+
+}*/
 
 @media only screen and (max-width: 375px){
 	
