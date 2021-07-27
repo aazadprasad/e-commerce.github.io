@@ -26,7 +26,7 @@ This is a _shoping website_ which commercially sells the various stylish article
 The company named in this website is **'ALPHA'** which is just an _hypothetical_ name. Here, we are mostly dealing with the various article present in room like Poster, Carpet,Chair,Sofa,etc.
 The various room here are : Living Room, Bed Room, Kitchen, Bathroom, Study Room, Play room. We are having **24x7** active and for that we also assign a **bot** for your general query.
 
-
+___
 **TECHNICAL DESCRIPTION:**
 ___
 
