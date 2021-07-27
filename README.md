@@ -42,7 +42,7 @@ So. No. | FILE NAME | WEBPAGE
 6 | aboutus.html |(_About our Company_)
 7 | living.html | (_For ariticles of Living Room_)
 8 | bed.html | (_For ariticles of Bed Room_)
-9 | kitchen.html  (_For ariticles of Kitchen_)
+9 | kitchen.html | (_For ariticles of Kitchen_)
 10 | bath.html | (_For ariticles of Bathroom_)
 11 | study.html | (_For ariticles of Study Room_)
 12 | play.html 	| (_For ariticles of Play Room_)
