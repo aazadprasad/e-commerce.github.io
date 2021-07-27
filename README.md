@@ -10,7 +10,7 @@
 
 
 
-[REPOSITORY LINK](https://github.com/aazadprasad/e-commerce.github.io.git "Repository link)
+[REPOSITORY LINK](https://github.com/aazadprasad/e-commerce.github.io.git "Repository link")
 
 HOSTED ON GITHUB,
 [VISIT MY WEBSITE](https://aazadprasad.github.io/e-commerce.github.io/ "Website link") 
