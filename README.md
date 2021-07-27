@@ -9,6 +9,11 @@ Team member: AASHISH KUMAR PRASAD
 
 
 
-REPOSITORY LINK :
+REPOSITORY LINK :  https://github.com/aazadprasad/e-commerce.github.io.git
 
 HOSTED ON GITHUB, LINK IS : https://aazadprasad.github.io/e-commerce.github.io/
+
+
+DISCRIPTION:
+
+DIRECTION:
