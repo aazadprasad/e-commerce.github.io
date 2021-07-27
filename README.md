@@ -90,6 +90,6 @@ ___
 **In short:**
 ___
 
-index.html > pro-nologin.html **>** login.html **>** signup.html **>** pro-login.html **>** **(** living.html , bed.html, kitchen.html, bath.html, study.html, play.html **)** **>** cart.html **>** success.html **>** cancel.html
+index.html **>>** pro-nologin.html **>>** login.html **>>** signup.html **>>** pro-login.html **>>** **(** living.html , bed.html, kitchen.html, bath.html, study.html, play.html **)** **>>** cart.html **>>** success.html **>>** cancel.html
 
 **Thank You :)**
