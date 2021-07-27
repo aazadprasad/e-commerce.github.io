@@ -34,7 +34,7 @@ We had made a list of **18** Webpages to creat this website.
 These are:
 So. No. | FILE NAME | WEBPAGE
 --------|-----------|--------
-1 | Name | Aashish
+1. | Name | Aashish
 
 1. | index.html | (_Home Page_)
 2. | login.html | (_Login Page for registered user_)
