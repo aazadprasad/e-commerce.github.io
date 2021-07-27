@@ -58,6 +58,7 @@ ___
 
 1: Visitor(**not login**) can visit only on these **6** webpages: index.html, login.html, signup.html, pro-nologin.html, aboutus.html and contactus.html.
 2: User (**login**) can vist in all the **18** webpages. For that he/she should have to Login or Sign Up.
+
 3: **Pro-login.html** and **pro-nologin.html** are mostly similar but the difference is in **caption** of the mentioned rooms inside the page is different. Visitor get **Buy Now** and User get **More** detail captions. This is to attract the user to login in our platform.
 4: In About Us page you know about our company.
 5: In Contact Us you will get know our Email, Mobile Number and Adderss. Here you can also type for **message** to us.
