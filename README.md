@@ -19,7 +19,7 @@ HOSTED ON GITHUB,
 ___
 
 
-**DISCRIPTION:**
+> **DISCRIPTION:**
 ___
 
 This is a _shoping website_ which commercially sells the various stylish article for house, and many other decorative product to make the interior of the house modern and beautiful. 
@@ -27,7 +27,7 @@ The company named in this website is **'ALPHA'** which is just an _hypothetical_
 The various room here are : Living Room, Bed Room, Kitchen, Bathroom, Study Room, Play room. We are having **24x7** active and for that we also assign a **bot** for your general query.
 
 ___
-**TECHNICAL DESCRIPTION:**
+>**TECHNICAL DESCRIPTION:**
 ___
 
 We had made a list of **18** Webpages to creat this website.
