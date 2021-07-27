@@ -64,8 +64,8 @@ ___
 1. In About Us page you know about our company.
 1. In Contact Us you will get know our Email, Mobile Number and Adderss. Here you can also type for **message** to us.
 1. In Sign Up and Login Page No user can **submit the empty form.**
-1. You can Place your order in this page( see above list 7 to 12) only followed by **pro-login.html** page.
-1. We provide the chatbox(written **"Talk"** in the webpage) to solve your issues. 
+1. You can Place your order in this page (see above list 7 to 12) only followed by **pro-login.html** page.
+1. We provide the chatbox (written **"Talk"** in the webpage) to solve your issues. 
 1. After login by the user he/she can also get a **setting** menu to change the password.
 
 
@@ -89,7 +89,7 @@ ___
 _And this is how the Website works._
 
 ___
->**In short:**
+>**IN SHORT:**
 ___
 
 index.html **>>** pro-nologin.html **>>** login.html **>>** signup.html **>>** pro-login.html **>>** **(** living.html , bed.html, kitchen.html, bath.html, study.html, play.html **)** **>>** cart.html **>>** success.html **>>** cancel.html
