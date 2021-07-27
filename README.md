@@ -17,6 +17,7 @@ HOSTED ON GITHUB,
 
 
 DISCRIPTION:
+
 This is a shoping website which commercially sells the various stylish article for house, and many other decorative product to make the interior of the house modern and beautiful. 
 The company named in this website is 'ALPHA' which is just an hypothetical name. Here, we are mostly dealing with the various artical present in room like Poster, Carpet,Chair,Sofa,etc.
 The various room here are : Living Room, Bed Room, Kitchen, Bathroom, Study Room, Play room for Children. We are having 24x7 active and for that we also assign a bots for your general query.
@@ -29,7 +30,7 @@ These are:
 1. index.html		(Home Page)
 2. login.html 		(Login Page for registered user)
 3. signup.html		(Sign Up Page for New User)
- 4. pro-login.html 	(For Login User)
+4. pro-login.html 	(For Login User)
 5. pro-nologin.html	(For not Login User)
 6. aboutus.html 	(About our Company)
 7. living.html 		(For ariticles of Living Room)
