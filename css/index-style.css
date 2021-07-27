@@ -31,7 +31,7 @@ a
 	min-height: 55px;
 	border: 1px solid #080808; 
 }
-.header{
+.header, .navbar{
 	border-bottom: 2px solid grey;
 }
 .inner-header, .inner-navbar
