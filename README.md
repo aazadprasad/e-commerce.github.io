@@ -29,7 +29,7 @@ These are:
 1. index.html		(Home Page)
 2. login.html 		(Login Page for registered user)
 3. signup.html		(Sign Up Page for New User)
-    4. pro-login.html 	(For Login User)
+4. pro-login.html 	(For Login User)
 5. pro-nologin.html	(For not Login User)
 6. aboutus.html 	(About our Company)
 7. living.html 		(For ariticles of Living Room)
