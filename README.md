@@ -46,4 +46,43 @@ These are:
 17. setting.html 	(For Setting the Password)
 18. chatbox.html 	(Bot page)
 
-DIRECTION:
+IMPORTANT NOTES:
+
+Note 1: Visitor(not login) can visit only on these 6 webpages: index.html, login.html, signup.html, pro-nologin.html, aboutus.html and contactus.html.
+Note 2: User (login) can vist in all the 18 webpages. For that he/she should have to Login or Sign Up.
+Note 3: pro-login.html and pro-nologin.html are mostly similar but the difference is in caption of the mentioned rooms inside the page is different. 
+        Visitor get Buy Now and User get More detail captions. This is to attract the user to login in our platform.
+Note 4: In About Us page you know about our company.
+Note 5: In Contact Us you will get know our Email, Mobile Number and Adderss. Here you can also type for message to us.
+Note 6: In Sign Up and Login Page No user can submit the empty form.
+Note 7: You can Place your order in this page( see above list 7 to 12) only followed by pro-login.html page.
+Note 8: We provide the chatbox(written "Talk" in the webpage) to solve your issues. 
+Note 9: After login by the user he/she can also get a setting menu to change the password.
+
+
+ 
+WORK FLOW:
+
+STEP 1: Visitor first see the Index.html (having options option to go login.html, signup.html, aboutus.html, contactus.html and pro-nologin.html).
+STEP 2: Visitor may click on Login, Sign Up or Shop Now and some other links which we mention in above Step 1.
+STEP 3: When Shop Now is clicked then user will redirect to the page pro-nologin.html. Here he/she can see the six different rooms and having options to Buy Now.
+STEP 4: When Buy Now is clicked then it redirect to the login page. As the visiter has no credential to login then he can click on "Don't have an account?" below the red login button.
+STEP 5: When he/she click on it the it will redirect to the Sign Up page to register in our platform.
+STEP 6: After registration the Visitor become our User and he ready to purchase any item in this platform. After registration, it get redirected to the pro-login.html.
+STEP 7: In Pro-login html page he/she has all 18 pages to go through. He/She now see a talk button floating on the left bottom for chat with bot.
+STEP 8: Also he/she can visit setting page, cart page, and can click on the caption "More Details" to go into that particular collection of items.
+STEP 9: After clicking on it he/she see 9 different articles and having captions "Add to Cart", that will redirect the user to cart page.
+STEP 10: In cart page he/she can click on "Proceed to Checkout" to place order.
+STEP 11: It will redirect to success.html page showing "Your order has been Placed". He/She also got a button to cancel the order.
+STEP 12: On clicking "Cancel Order" it will redirect to cancel.html page and he/she see a message of "Your order is Cancelled".
+	
+And this is how the Website works.
+
+In short:
+
+index.html > pro-nologin.html > login.html > signup.html > pro-login.html > (living.html , bed.html, kitchen.html, bath.html, study.html, play.html) > cart.html > success.html > cancel.html
+
+Thank You :)
+
+
+
