@@ -19,7 +19,7 @@ HOSTED ON GITHUB,
 ___
 
 
-> **DISCRIPTION:**
+>**DISCRIPTION:**
 ___
 
 This is a _shoping website_ which commercially sells the various stylish article for house, and many other decorative product to make the interior of the house modern and beautiful. 
@@ -32,28 +32,28 @@ ___
 
 We had made a list of **18** Webpages to creat this website.
 These are:
-1. index.html		(Home Page)
-2. login.html 		(Login Page for registered user)
-3. signup.html		(Sign Up Page for New User)
-4. pro-login.html 	(For Login User)
-5. pro-nologin.html	(For not Login User)
-6. aboutus.html 	(About our Company)
-7. living.html 		(For ariticles of Living Room)
-8. bed.html 		(For ariticles of Bed Room)
-9. kitchen.html 	(For ariticles of Kitchen)
-10. bath.html 		(For ariticles of Bathroom)
-11. study.html 		(For ariticles of Study Room)
-12. play.html 		(For ariticles of Play Room)
-13. contactus.html 	(For contacting our page)
-14. cart.html 		(For Shopping Cart)
-15. success.html 	(For successfully order placed)
-16. cancel.html 	(Order cancel page)
-17. setting.html 	(For Setting the Password)
-18. chatbox.html 	(Bot page)
+1. index.html		(_Home Page_)
+2. login.html 		(_Login Page for registered user_)
+3. signup.html		(_Sign Up Page for New User_)
+4. pro-login.html 	(_For Login User_)
+5. pro-nologin.html	(_For not Login User_)
+6. aboutus.html 	(_About our Company_)
+7. living.html 		(_For ariticles of Living Room_)
+8. bed.html 		(_For ariticles of Bed Room_)
+9. kitchen.html 	(_For ariticles of Kitchen_)
+10. bath.html 		(_For ariticles of Bathroom_)
+11. study.html 		(_For ariticles of Study Room_)
+12. play.html 		(_For ariticles of Play Room_)
+13. contactus.html 	(_For contacting our page_)
+14. cart.html 		(_For Shopping Cart_)
+15. success.html 	(_For successfully order placed_)
+16. cancel.html 	(_Order cancel page_)
+17. setting.html 	(_For Setting the Password_)
+18. chatbox.html 	(_Bot page_)
 
 
 ___
-**IMPORTANT NOTES:**
+>**IMPORTANT NOTES:**
 ___
 
 1. Visitor(**not login**) can visit only on these **6** webpages: index.html, login.html, signup.html, pro-nologin.html, aboutus.html and contactus.html.
@@ -68,7 +68,7 @@ ___
 
 
 ___
-**WORK FLOW:**
+>**WORK FLOW:**
 ___
 
 1. Visitor first see the **Index.html** (having options option to go login.html, signup.html, aboutus.html, contactus.html and pro-nologin.html).
@@ -87,7 +87,7 @@ ___
 _And this is how the Website works._
 
 ___
-**In short:**
+>**In short:**
 ___
 
 index.html **>>** pro-nologin.html **>>** login.html **>>** signup.html **>>** pro-login.html **>>** **(** living.html , bed.html, kitchen.html, bath.html, study.html, play.html **)** **>>** cart.html **>>** success.html **>>** cancel.html
