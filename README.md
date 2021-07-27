@@ -32,10 +32,10 @@ ___
 
 We had made a list of **18** Webpages to creat this website.
 These are:
-FILE NAME | WEBPAGE
-----------|--------
-1. index.html | (_Home Page_)
-2. login.html |		(_Login Page for registered user_)
+So. No. | FILE NAME | WEBPAGE
+--------|-----------|--------
+1. | index.html | (_Home Page_)
+2. | login.html | (_Login Page for registered user_)
 3. signup.html	|	(_Sign Up Page for New User_)
 4. pro-login.html |	(_For Login User_)
 5. pro-nologin.html|	(_For not Login User_)
