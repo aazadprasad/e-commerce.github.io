@@ -52,7 +52,7 @@ These are:
 18. chatbox.html 	(Bot page)
 
 
-
+___
 **IMPORTANT NOTES:**
 ___
 
@@ -67,7 +67,7 @@ ___
 9: After login by the user he/she can also get a **setting** menu to change the password.
 
 
- 
+___
 **WORK FLOW:**
 ___
 
@@ -86,6 +86,7 @@ ___
 	
 _And this is how the Website works._
 
+___
 **In short:**
 ___
 
