@@ -32,24 +32,26 @@ ___
 
 We had made a list of **18** Webpages to creat this website.
 These are:
-1. index.html		(_Home Page_)
-2. login.html 		(_Login Page for registered user_)
-3. signup.html		(_Sign Up Page for New User_)
-4. pro-login.html 	(_For Login User_)
-5. pro-nologin.html	(_For not Login User_)
-6. aboutus.html 	(_About our Company_)
-7. living.html 		(_For ariticles of Living Room_)
-8. bed.html 		(_For ariticles of Bed Room_)
-9. kitchen.html 	(_For ariticles of Kitchen_)
-10. bath.html 		(_For ariticles of Bathroom_)
-11. study.html 		(_For ariticles of Study Room_)
-12. play.html 		(_For ariticles of Play Room_)
-13. contactus.html 	(_For contacting our page_)
-14. cart.html 		(_For Shopping Cart_)
-15. success.html 	(_For successfully order placed_)
-16. cancel.html 	(_Order cancel page_)
-17. setting.html 	(_For Setting the Password_)
-18. chatbox.html 	(_Bot page_)
+FILE NAME | WEBPAGE
+----------|--------
+1. index.html|		(_Home Page_)
+2. login.html |		(_Login Page for registered user_)
+3. signup.html	|	(_Sign Up Page for New User_)
+4. pro-login.html |	(_For Login User_)
+5. pro-nologin.html|	(_For not Login User_)
+6. aboutus.html |	(_About our Company_)
+7. living.html |		(_For ariticles of Living Room_)
+8. bed.html |		(_For ariticles of Bed Room_)
+9. kitchen.html |	(_For ariticles of Kitchen_)
+10. bath.html |		(_For ariticles of Bathroom_)
+11. study.html |		(_For ariticles of Study Room_)
+12. play.html 	|	(_For ariticles of Play Room_)
+13. contactus.html |	(_For contacting our page_)
+14. cart.html |		(_For Shopping Cart_)
+15. success.html |	(_For successfully order placed_)
+16. cancel.html |	(_Order cancel page_)
+17. setting.html| 	(_For Setting the Password_)
+18. chatbox.html |	(_Bot page_)
 
 
 ___
